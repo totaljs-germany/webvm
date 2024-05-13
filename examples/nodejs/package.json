@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "total4": "^0.0.96"
+    "total4": "^0.0.96",
+    "total5": "beta"
   }
 }
